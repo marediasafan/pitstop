@@ -50,4 +50,4 @@ local env DB settings`
 
 **For Testing API - use chrome extension - POSTMAN - https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop**
 
-<img src="https://preview.ibb.co/m8C79S/postman_appointment_update.png" alt="postman_appointment_update" border="0">
+<a href="https://ibb.co/jTub3n"><img src="https://preview.ibb.co/m8C79S/postman_appointment_update.png" alt="postman_appointment_update" border="0"></a>
