@@ -48,3 +48,6 @@ local env DB settings`
 <p>4. POST /api/appointments/:app_id/update  -  Update appointment</p>
 
 
+**For Testing API - use chrome extension - POSTMAN - https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop**
+
+<img src="https://preview.ibb.co/m8C79S/postman_appointment_update.png" alt="postman_appointment_update" border="0">
