@@ -25,6 +25,11 @@ All database migration script are stored inside **server** directory.
 
 This will create 2 tables - cars and appointments
 
+Cars has a one-to-many relationship with appointments, which means a car can be booked by different customers.
+
+<img src="http://prntscr.com/jd7x16" /> 
+![alt text](http://prntscr.com/jd7x16)
+
 `NOTE: please change postgres config inside server/config/config.json to match your 
 local env DB settings`
 
